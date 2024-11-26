@@ -1,0 +1,5 @@
+C:\Users\Windows\Documents\SharpDevelop Projects\Instituto\Instituto\obj\Debug\Instituto.csprojResolveAssemblyReference.cache
+C:\Users\Windows\Documents\SharpDevelop Projects\Instituto\Instituto\bin\Debug\Instituto.exe
+C:\Users\Windows\Documents\SharpDevelop Projects\Instituto\Instituto\bin\Debug\Instituto.pdb
+C:\Users\Windows\Documents\SharpDevelop Projects\Instituto\Instituto\obj\Debug\Instituto.exe
+C:\Users\Windows\Documents\SharpDevelop Projects\Instituto\Instituto\obj\Debug\Instituto.pdb
